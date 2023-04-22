@@ -1,0 +1,15 @@
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\obj\Debug\net7.0\taskHome1.csproj.AssemblyReference.cache
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\obj\Debug\net7.0\taskHome1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\obj\Debug\net7.0\taskHome1.AssemblyInfoInputs.cache
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\obj\Debug\net7.0\taskHome1.AssemblyInfo.cs
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\obj\Debug\net7.0\taskHome1.csproj.CoreCompileInputs.cache
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\bin\Debug\net7.0\taskHome1.exe
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\bin\Debug\net7.0\taskHome1.deps.json
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\bin\Debug\net7.0\taskHome1.runtimeconfig.json
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\bin\Debug\net7.0\taskHome1.dll
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\bin\Debug\net7.0\taskHome1.pdb
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\obj\Debug\net7.0\taskHome1.dll
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\obj\Debug\net7.0\refint\taskHome1.dll
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\obj\Debug\net7.0\taskHome1.pdb
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\obj\Debug\net7.0\taskHome1.genruntimeconfig.cache
+C:\Users\Ramin\OneDrive\Рабочий стол\vscode\C#\taskHome1\obj\Debug\net7.0\ref\taskHome1.dll
